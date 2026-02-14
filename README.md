@@ -37,7 +37,7 @@ The application code is located in the `FRAM/` directory.
 2. Place the CSV file in the `FRAM/` directory.
 3. Run `main_AL.m` or `main_PL.m` as needed.
 
-> **Note:** The original Framingham data is not included in this repository due to potential copyright restrictions. Please obtain the data independently.
+> **Note:** The original Framingham data is not included in this repository due to potential copyright restrictions.
 
 ## Requirements
 
